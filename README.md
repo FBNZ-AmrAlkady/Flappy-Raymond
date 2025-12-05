@@ -1,2 +1,2 @@
-# Flappy-Raymond
+# Flappy-Ray
 Flappy Ray Game
